@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 import { findDates } from 'src/helpers/findDates';
 import { Injectable } from '@nestjs/common';
 import { NoteCategories, NoteDto, NoteStatus } from './dto/create-note.dto';

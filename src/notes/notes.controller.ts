@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 import { Body, Controller, Delete, Get, HttpCode, HttpStatus, Param, Patch, Post, UsePipes, ValidationPipe } from '@nestjs/common';
 import { NoteDto } from './dto/create-note.dto';
 import { UpdateNoteDto } from './dto/upadate-note.dto';

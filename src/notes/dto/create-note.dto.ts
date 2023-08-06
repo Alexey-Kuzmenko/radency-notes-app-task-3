@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 import { IsArray, IsEnum, IsNotEmpty, IsString, IsUUID } from "class-validator";
 
 export enum NoteCategories {
